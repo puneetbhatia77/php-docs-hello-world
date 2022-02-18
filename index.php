@@ -1,3 +1,3 @@
-<?ph
+<?php
 
 echo "Hello World Puneet !";
